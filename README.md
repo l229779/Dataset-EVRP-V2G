@@ -13,7 +13,7 @@ The instances are formatted as follows:
 - **Q**: Vehicle battery capacity (units of energy available)
 - **qV**: Vehicle load capacity (units available for cargo)
 - **qC**: demand customers
-- **H**: fuel consumption rate (reduction of battery capacity when traveling one unit of distance)
+- **H**: consumption rate (reduction of battery capacity when traveling one unit of distance)
 - **RIO**: inverse refueling rate (units of time required to recharge one unit of energy)
 - The velocity is assumed to be constant on all arcs, which is required to calculate the travel time from the distance.
 - **x, y**: coordinates (distances are assumed to be euclidean)
